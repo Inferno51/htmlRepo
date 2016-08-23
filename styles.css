@@ -1,0 +1,41 @@
+html {
+	background-color: red;
+}
+main {
+	float: left;
+	border: 1px solid #ff0000;
+	padding: 10px 10px 10px 40px;
+	margin: 5px auto;
+	width: 450px;
+	background-color: orange;
+}
+
+header {
+	border-bottom: 4px dotted #000000;
+	padding: 10px 10px 10px 10px;
+	margin: 5px auto;
+	height: 150px;
+	background-color: white;
+}
+
+body {
+	width: 900px;
+	margin: 10px auto;
+}
+
+aside {
+	padding: 10px 10px 10px 40px;
+	float: right;
+	width: 300px;
+	background-color: orange;
+}
+
+footer {
+	clear: both;
+	width: 900px;
+	margin: 5px auto;
+	}
+
+.lorem {
+	color:white;
+}
