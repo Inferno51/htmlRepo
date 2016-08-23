@@ -1,5 +1,8 @@
 html {
-	background-color: red;
+	background-color: brown;
+	background-image: url(images/industrial_texture695.jpg);	
+	background-size:cover;
+	background-repeat: no-repeat;
 }
 main {
 	float: left;
@@ -11,11 +14,11 @@ main {
 }
 
 header {
-	border-bottom: 4px dotted #000000;
+	border: 8px dotted black;
 	padding: 10px 10px 10px 10px;
 	margin: 5px auto;
-	height: 150px;
-	background-color: white;
+	height: 75px;
+	background-color: brown;
 }
 
 body {
